@@ -1398,31 +1398,5 @@
     "container_extension": "mkv",
     "custom_sid": "",
     "direct_source": ""
-  },
- {
-    "num": 2,
-    "name": "Th | Action | Thong Dee Fun Khao 2017",
-    "stream_type": "movie",
-    "stream_id": 16437,
-    "stream_icon": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzhhNzhlZmEtODgwYi00YzdiLTgxNWQtYjJiZjEyZjdiNWI1XkEyXkFqcGdeQXVyNzQxODI3NTA@._V1_UX182_CR0,0,182,268_AL_.jpg",
-    "added": "1514453933",
-    "is_adult": "0",
-    "category_id": "101",
-    "container_extension": "mp4",
-    "custom_sid": "",
-    "direct_source": ""
-  },
-  {
-    "num": 3,
-    "name": "Th | Action | Monkey Twins 2016",
-    "stream_type": "movie",
-    "stream_id": 11277,
-    "stream_icon": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjJjNjZkNTgtMWQ1OS00ZDVjLThiOTgtZmEyNDgwNjg3MmRhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTkxNzc2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
-    "added": "1505627537",
-    "is_adult": "0",
-    "category_id": "101",
-    "container_extension": "mp4",
-    "custom_sid": "",
-    "direct_source": ""
   }
 ]
